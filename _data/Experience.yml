@@ -5,18 +5,20 @@ contents:
   - title: New York University
     role: Software Engineer Intern & Research Assistant
     description:
-      - Full stack build up the platform using Nodejs, studies how AI facilitates financial literacy and in turn affects retail investors trading behaviors
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
-  - title: Amazone
-    role: Senior Software Engineer
+      - Full stack build up the platform using Nodejs, studies how AI facilitates financial literacy and in turn affects retail investors' trading behaviors
+      - Collaborate with teammates to Collect and analyze experimental data, and Conduct literature reviews
+    date: July. 2024 - Ongoing
+  - title: Chongqing International Media Center
+    role: Software Engineer & IT Support Intern
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Full stack designed, developed, and deployed a user‑centric website featuring AI‑driven tools, enabling interactions with 3 robust Large Language Models, along with AI painting in 18 diverse artistic styles
+      - Initiated proactive outreach to forge connections with tech industry leaders willing to integrate AI functionalities into their operations, facilitating the integration of their API functions into the website’s framework
+      - Provided technical support to a user base of over 3,000 individuals, delivering concise user preferences to enhance overall user experience and usability
+    date: July. 2023 - Sep. 2023
+  - title: Chongqing Chengyu Media
+    role: User Experience Design & Backend Manage Intern
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Utilized back‑end logging to track user feedback; informing continuous improvements to the platform
+      - Collaborated in weekly meetings to disseminate progress reports and establish priorities for the upcoming week
+      - Managed Software Back‑end for Chongqing Chengyu Media, responsible for ensuring timely news creation and publication
+    date: July. 2022 - Aug. 2022
