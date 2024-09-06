@@ -14,7 +14,7 @@ github_username: murasamy
 # twitter_username: twitter
 # facebook_username: facebook
 # youtube_username: youtube
-blog_url: https://murasamy.github.io/resources/Peiyang_Resume_UIUC_C.pdf
+blog_url: /assets/img/calendar.webp
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /resume
