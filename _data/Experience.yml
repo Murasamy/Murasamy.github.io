@@ -5,8 +5,7 @@ contents:
   - title: New York University
     role: Software Engineer Intern & Research Assistant
     description:
-      - Full stack build up the platform using node.js, studies how AI facilitates financial literacy and in turn affects retail investors’ trading
-behaviors
+      - Led development of a new chatbot software utilizing large language model
       - Co-designer of '*Kopilot*' and '*Gemmini*'
     date: Jan. 2024 - Ongoing
   - title: Amazone
