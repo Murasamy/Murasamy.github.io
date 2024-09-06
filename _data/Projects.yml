@@ -2,20 +2,20 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Ant-Group & New York University ([https://www.antgroup.com/](https://www.antgroup.com/en/))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Conduct data analysis with highly confidential data given by Alibaba. Cleanse and process data to build a conclusive model. Review literature and deliver regular summary reports and visualizations to team members
+    # image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
+  - title: "Dialog State Tracking with Large Language Models (LLMs) ([Github](https://github.com/BaleChen/dst-capstone))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
+      - Employed advanced techniques to fine‑tune LLMs using Transformer architecture, optimizing their capabilities for Dialog State Tracking tasks. Obtained a temporary State of the Art Result in Multiwoz 2.1 Datase
+      - Conducted rigorous research to identify optimal hyper‑parameters for training across various LLMs, including Llama2‑chat, Llama2(7B, 40B), and Falcon (7B)
+      - Monitored the training process on HPC systems, maintaining timely records of logs, and swiftly resolving any encountered bugs
+      - "Technology Used: Python, Cuda, Bash, Tensorflow"
+    # image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
+  - title: "Predicting Stock Price Trends by Generating Candlestick Charts ([Github](https://github.com/Murasamy/Capstone_Xianbin))" 
     description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Utilized Transformer‑based and Variational AutoEncoder models to predict future stock price movements with precision
+      - Executed a rigorous training program on an HPC platform, fine‑tuning hyperparameters to achieve superior prediction accuracy
+      - "Technology Used: Python, Cuda, Tensorflow"
+    # image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
