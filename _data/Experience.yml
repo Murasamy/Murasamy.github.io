@@ -2,10 +2,11 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: New York University
+    role: Software Engineer Intern & Research Assistant
     description:
-      - Led development of a new chatbot software utilizing large language model
+      - Full stack build up the platform using node.js, studies how AI facilitates financial literacy and in turn affects retail investors’ trading
+behaviors
       - Co-designer of '*Kopilot*' and '*Gemmini*'
     date: Jan. 2024 - Ongoing
   - title: Amazone
